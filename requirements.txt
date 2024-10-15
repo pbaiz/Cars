@@ -1,0 +1,4 @@
+pandas
+hist
+matplotlib
+scipy
